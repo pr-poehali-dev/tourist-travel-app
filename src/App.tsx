@@ -43,7 +43,7 @@ const App = () => {
                 <div className="w-9 h-9 gradient-orange rounded-xl flex items-center justify-center">
                   <Icon name="Plane" size={18} className="text-white" />
                 </div>
-                <span className="font-display text-xl font-bold text-white tracking-wide">ВОЯЖ</span>
+                <span className="font-display text-xl font-bold text-white tracking-wide">СУРОВАЯ КАМЧАТКА</span>
               </button>
 
               <div className="hidden md:flex items-center gap-1">
@@ -126,7 +126,7 @@ const App = () => {
                   <div className="w-9 h-9 gradient-orange rounded-xl flex items-center justify-center">
                     <Icon name="Plane" size={18} className="text-white" />
                   </div>
-                  <span className="font-display text-xl font-bold text-white">ВОЯЖ</span>
+                  <span className="font-display text-xl font-bold text-white">СУРОВАЯ КАМЧАТКА</span>
                 </div>
                 <p className="font-body text-white/40 text-sm">Ваш надёжный партнёр в мире путешествий с 2010 года</p>
               </div>
@@ -148,7 +148,7 @@ const App = () => {
               ))}
             </div>
             <div className="border-t border-white/5 pt-6 flex flex-col md:flex-row items-center justify-between gap-4">
-              <p className="font-body text-white/30 text-xs">© 2025 ВОЯЖ. Все права защищены. Лицензия турагента РТО-000123</p>
+              <p className="font-body text-white/30 text-xs">© 2025 Суровая Камчатка. Все права защищены. Лицензия турагента РТО-000123</p>
               <div className="flex items-center gap-4">
                 {["Telegram", "VK", "Instagram"].map(soc => (
                   <button key={soc} className="font-body text-xs text-white/30 hover:text-neon-orange transition-colors">{soc}</button>

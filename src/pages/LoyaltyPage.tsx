@@ -30,7 +30,7 @@ export default function LoyaltyPage() {
             <span className="text-neon-gold font-body text-sm uppercase tracking-widest">Программа привилегий</span>
             <div className="w-10 h-1 gradient-gold rounded-full" />
           </div>
-          <h1 className="font-display text-5xl md:text-7xl font-bold text-white mb-4">ВОЯЖ <span className="text-gradient-orange">STARS</span></h1>
+          <h1 className="font-display text-5xl md:text-7xl font-bold text-white mb-4">КАМЧАТКА <span className="text-gradient-orange">STARS</span></h1>
           <p className="font-body text-white/50 text-lg max-w-xl mx-auto">Путешествуй больше — получай больше. Накапливай звёздные баллы с каждой поездки</p>
         </div>
 
